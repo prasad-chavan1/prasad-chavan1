@@ -10,6 +10,7 @@ I'm a passionate for Cloud Computing with a love for coding, creativity, and col
 - 🚀 Django Framework | Full stack developer but specialized in Django
 - 💡 Python DSA: I have more command over DSA in Python language.
 - 🌱 Cloud Computing: Currently i'm learning, exploring Cloud computing, Artificial intelligence & Machine learning.
+- 🌐 Dream Field: Cloud Computing.
 
 <!-- Skills -->
 ## 🔧 Skills
