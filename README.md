@@ -20,6 +20,9 @@ I'm a passionate for Cloud Computing with a love for coding, creativity, and col
 - **Data Science**: Numpy, Tensorflow
 - **Design**: UI/ UX, Responsive Designs
 - **Other Interests**: Reading Novels, Solving Puzzles & Problems
+- ![Language](https://img.shields.io/badge/language-Python-blue)
+- ![Language](https://img.shields.io/badge/language-C-blue)
+- ![Language](https://img.shields.io/badge/language-Javascript-blue)
 
 <!-- My Projects -->
 ## 🚀 My Projects
