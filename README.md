@@ -46,7 +46,7 @@ Feel free to explore my [GitHub repositories](https://github.com/prasad-chavan1)
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasad-chavan1&show_icons=true)
+![Your GitHub Stats]()
 
 <!-- Footer -->
 ## ❤️ Thanks for visiting!
