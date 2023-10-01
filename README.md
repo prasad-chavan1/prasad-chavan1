@@ -1,6 +1,6 @@
 <!-- Header -->
 # 👋 Hello, I'm Prasad Ashok Chavan
-![Header](https://i.pinimg.com/originals/da/7d/2a/da7d2a4e0d3f303f55c3532c67d70bc3.png)
+![Header](https://github.com/prasad-chavan1/Quotes-site-template/blob/main/src/noback.png?raw=true)
 
 I'm a passionate for Cloud Computing with a love for coding, creativity, and collaboration. Welcome to my corner of the digital world!
 
