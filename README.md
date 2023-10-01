@@ -1,5 +1,5 @@
 <!-- Header -->
-# 👋 Hello, I'm Prasad Ashok Chavan
+# 👋 Hey, I'm Prasad Ashok Chavan
 ![Header](https://github.com/prasad-chavan1/Quotes-site-template/blob/main/src/noback.png?raw=true)
 
 I'm a passionate for Cloud Computing with a love for coding, creativity, and collaboration. Welcome to my corner of the digital world!
@@ -30,8 +30,9 @@ I'm a passionate for Cloud Computing with a love for coding, creativity, and col
 
 Here are a few projects I'm proud of:
 
-1. [Word Scramble Extension](https://github.com/prasad-chavan1/word-scramble-extension): A simple word scramble game extension, to make you feel relax. Developes your IQ and Enhances mind.
-2. [Quote Site Template](https://github.com/prasad-chavan1/Quotes-site-template): Another interesting project having template for quote's site. In which you can post quotes based on categories or any...
+1. [Animesthetic Social Media](https://github.com/prasad-chavan1/Animesthetic-Social-Media): A social media platform for all anime lovers. Contribute to my project to make it more attractive.
+2. [Word Scramble Extension](https://github.com/prasad-chavan1/word-scramble-extension): A simple word scramble game extension, to make you feel relax. Developes your IQ and Enhances mind.
+3. [Quote Site Template](https://github.com/prasad-chavan1/Quotes-site-template): Another interesting project having template for quote's site. In which you can post quotes based on categories or any...
 
 Feel free to explore my [GitHub repositories](https://github.com/prasad-chavan1) for more!
 
