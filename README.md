@@ -49,6 +49,10 @@ Feel free to explore my [GitHub repositories](https://github.com/prasad-chavan1)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasad-chavan1&show_icons=true)
 
+## 🚀 Hacktober-Fest Rewards
+
+[![An image of @prasadchavan1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prasadchavan1)](https://holopin.io/@prasadchavan1)
+
 <!-- Footer -->
 ## ❤️ Thanks for visiting!
 
