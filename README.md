@@ -43,7 +43,7 @@ Feel free to explore my [GitHub repositories](https://github.com/prasad-chavan1)
 - 📫 Contact me: askokc4321@gmail.com
 - 💬 Connect on [LinkedIn](https://www.linkedin.com/in/prasad-chavan2003/)
 - 🌐 Message Me [Here](https://wa.me/766128710?text=Hello%20dear%20!!)
-- ❤️ My Portfolio [Visit](https://prasadchavan.vercel.app/)
+- ❤️ My Portfolio [Visit](https://prasadchavan.me)
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
