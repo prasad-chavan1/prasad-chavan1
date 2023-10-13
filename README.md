@@ -31,6 +31,7 @@ I'm a passionate for Cloud Computing with a love for coding, creativity, and col
 
 Here are a few projects I'm proud of:
 
+- [Sqlifyy - NL to SQL translator](https://github.com/prasad-chavan1): Coming Soon...🙂
 - [Animesthetic Social Media](https://github.com/prasad-chavan1/Animesthetic-Social-Media): A social media platform for all anime lovers. Contribute to my project to make it more attractive.
 - [Word Scramble Extension](https://github.com/prasad-chavan1/word-scramble-extension): A simple word scramble game extension, to make you feel relax. Developes your IQ and Enhances mind.
 - [Quote Site Template](https://github.com/prasad-chavan1/Quotes-site-template): Another interesting project having template for quote's site. In which you can post quotes based on categories or any...
