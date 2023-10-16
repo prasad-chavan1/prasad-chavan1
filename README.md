@@ -1,7 +1,7 @@
 <!-- Header -->
 # 👋 Hey, I'm Prasad Ashok Chavan
 ![Header](https://github.com/prasad-chavan1/Quotes-site-template/blob/main/src/noback.png?raw=true)
-
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=prasad-chavan1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 I'm a passionate for Cloud Computing with a love for coding, creativity, and collaboration. Welcome to my corner of the digital world!
 
