@@ -51,7 +51,7 @@ Feel free to explore my [GitHub repositories](https://github.com/prasad-chavan1)
 
 <p> <img align="center" src='https://github-readme-stats.vercel.app/api?username=prasad-chavan1&show_icons=true'/>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-chavan1&" alt="Prasad Chavan's Stats" /></p>
+<!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-chavan1&" alt="Prasad Chavan's Stats" /></p>-->
 
 ## 🚀 Hacktober-Fest Rewards
 
